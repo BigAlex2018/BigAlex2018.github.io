@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://bigalex2018.github.io/sitemap.xml
+Sitemap: https://blog.stayhumble.site/sitemap.xml
